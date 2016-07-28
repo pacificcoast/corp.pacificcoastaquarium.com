@@ -11,13 +11,13 @@ Imports System.Windows
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WpfApplication1")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyTitle("PACIFICCOASTAQUARIUM.COM")>
+<Assembly: AssemblyDescription("DOMAIN APPLICATION")>
+<Assembly: AssemblyCompany("www.pacificcoastaquarium.com")>
 <Assembly: AssemblyProduct("WpfApplication1")>
 <Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("")>
-<Assembly: ComVisible(false)>
+<Assembly: ComVisible(True)>
 
 'In order to begin building localizable applications, set 
 '<UICulture>CultureYouAreCodingWith</UICulture> in your .vbproj file
@@ -57,3 +57,4 @@ Imports System.Windows
 
 <Assembly: AssemblyVersion("1.0.0.0")>
 <Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: NeutralResourcesLanguage("en")>
